@@ -1,6 +1,6 @@
 function imgchange1() {
-    document.getElementById('mark').src = './image/立つ.jpg';
+    document.getElementById('mark').src = './image/立つ.PMG';
 }
 function imgchange2() {
-    document.getElementById('mark').src = './image/体育座り.jpg';
+    document.getElementById('mark').src = './image/体育座り.PMG';
 }
