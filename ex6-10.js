@@ -1,6 +1,6 @@
 function imgchange1() {
-    document.getElementById('logo').src = './image/城西キャラクター.jpg';
+    document.getElementById('logo').src = './image/立つ.jpg';
 }
 function imgchange2() {
-    document.getElementById('logo').src = './image/城西ロゴ.jpg';
+    document.getElementById('logo').src = './image/座る.jpg';
 }
