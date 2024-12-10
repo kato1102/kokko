@@ -1,2 +1,2 @@
-function imgchange5(){document.getElementById('minion').src='./image/R.jpg';}
-function mes2(){document.getElementById('minion').src='./image/minion.jpg';}
+function imgchange5(){document.getElementById('ミニオン').src='./image/R.jpg';}
+function mes2(){document.getElementById('ミニオン').src='./image/minion.jpg';}
